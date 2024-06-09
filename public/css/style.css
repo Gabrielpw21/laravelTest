@@ -1,0 +1,19 @@
+h1{
+    color: red !important;
+}
+
+.products{
+    /* display:flex; */
+    justify-content: center;
+    align-items: center;
+}
+
+footer{
+    text-align: center;
+    position: absolute;
+    bottom:0;
+    background-color: #353E48;
+    width: 100%;
+    padding: 30px;
+    color: white;
+}
