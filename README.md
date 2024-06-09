@@ -3,4 +3,4 @@
 
 - composer install
 - php artisan serve
-- Um dump da database esta junto do repositorio.
+- Um dump SQL da database esta junto do repositorio.
